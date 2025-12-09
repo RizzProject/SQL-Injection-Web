@@ -1,0 +1,30 @@
+.table_container{
+    margin-top: 2%;
+}
+
+.row_container{
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+}
+
+.row_container>div{
+    padding: 1% 2%;
+    border: 1px solid rgb(100, 100, 100);
+    color: white;
+    background: #272727;
+}
+
+.d_trid{
+    width: 30%;
+}
+
+.d_uid{
+    width: 30%;
+}
+
+.d_tdate{
+    width: 40%;
+}
